@@ -1,6 +1,6 @@
-DATA_PATH = '..'
+DATA_PATH = 'data'
 MODEL_PATH = 'models'
-MODEL_VERSION = 'v3'
+MODEL_VERSION = 'v_best'
 
 # Целевые переменные
 targets = ['Артериальная гипертензия', 'ОНМК',
