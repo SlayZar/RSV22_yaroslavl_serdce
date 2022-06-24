@@ -1,5 +1,5 @@
 DATA_PATH = 'data'
-MODEL_PATH = 'models'
+MODEL_PATH = 'all_models'
 MODEL_VERSION = 'v_best'
 
 # Целевые переменные
